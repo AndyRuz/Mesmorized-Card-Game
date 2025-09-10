@@ -1,4 +1,5 @@
-# Mesmorized-Card-Game
+# 🃇 🂡 Mesmorized-Card-Game 🂽 🃞
+###### - Andy Ruzicka
 ## Project Overview:
 For this project, I designed and deployed a single-page application (SPA) developed using the Claude genAI tool.
 #### Purpose:
