@@ -25,7 +25,7 @@ A simple application that allows the user to play a Memory Card Puzzle Game. A u
 ##### Github Repository:
 - https://github.com/AndyRuz/Mesmorized-Card-Game.git
 ##### Github IO:
--
+- https://andyruz.github.io/Mesmorized-Card-Game/
 
 ## Known Issues:
 - Users are able to switch the difficulty setting while playing a game, which will allow users to enter leaderboard scores for different difficulties, without truly playing the game at that specified difficulty, which they initially selected at the starting Main Menu screen.
