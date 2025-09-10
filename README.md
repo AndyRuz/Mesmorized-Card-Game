@@ -21,9 +21,9 @@ A simple application that allows the user to play a Memory Card Puzzle Game. A u
 - A pop-up will display the user's time they achieved and allow them to enter a 6-character name to add to the leaderboard tied to the specific game difficulty the user was playing on.
 - After the pop-up is closed out, it will bring the user back to the main menu screen, where they can repeat the entire process again if they choose to.
 
-## ACCESS to the Game Application
+## ACCESS to the Game Application 🟩>> PLAY GAME HERE <<🟩
 ##### Github Repository:
--
+- https://github.com/AndyRuz/Mesmorized-Card-Game.git
 ##### Github IO:
 -
 
